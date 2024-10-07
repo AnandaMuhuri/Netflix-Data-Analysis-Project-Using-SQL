@@ -30,13 +30,13 @@ The dataset used for this project is obtained from Kaggle, containing details ab
 - **PostgreSQL** : To execute SQL queries and perform data manipulation.
 
 ## How to Use the Project
-<br>
+
 1. Clone the repository:
    ```bash
 
      git clone https://github.com/AnandaMuhuri/Netflix-Data-Analysis-Project-Using-SQL.git
     ```
-<br>
+
 2. Import the dataset into your preferred SQL environment (PostgreSQL, MySQL, etc.).
 <br>
 3. Run the SQL queries provided in the repository to perform the analysis.
