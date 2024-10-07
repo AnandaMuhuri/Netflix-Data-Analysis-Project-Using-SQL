@@ -39,6 +39,25 @@ git clone https://github.com/AnandaMuhuri/Netflix-Data-Analysis-Project-Using-SQ
 <br>
 3. Run the SQL queries provided in the repository to perform the analysis.
 
+## Business Problems Solved
+
+This project addresses 15 key business problems related to Netflix's content library. Below are the problems and the corresponding SQL queries used to solve them: <br>
+    1. Count the number of Movies vs TV Shows <br>
+    2. Find the most common rating for movies and TV shows <br>
+    3. List all movies released in a specific year (e.g., 2020) <br>
+    4. Find the top 5 countries with the most content on Netflix <br>
+    5. Identify the longest movie <br>
+    6. Find content added in the last 5 years <br>
+    7. Find all the movies/TV shows by director 'Rajiv Chilaka'! <br>
+    8. List all TV shows with more than 5 seasons <br>
+    9. Count the number of content items in each genre <br> 
+    10. Find each year and the average number of content released in India on netflix. return top 5 years with the highest average content release! <br>
+    11. List all movies that are documentaries <br>
+    12. Find all content without a director <br>
+    13. Find how many movies actor 'Salman Khan' appeared in the last 10 years! <br>
+    14. Find the top 10 actors who have appeared in the highest number of movies produced in India. <br>
+    15. Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'. Count how many items fall into each category.
+
 ## Insights
 
 - Netflix has significantly increased the number of original shows and movies over recent years.
